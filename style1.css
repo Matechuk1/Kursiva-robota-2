@@ -1,0 +1,28 @@
+td,
+th,
+caption {
+    border: 10px solid black;
+}
+
+table {
+    border: 5px solid grey;
+}
+
+td:hover {
+    background-color: #6616fa;
+}
+
+body {
+    background-color: #03bafc;
+}
+
+p {
+    background-color: blue;
+    width: 850px;
+    display: inline-block;
+    border: 5px solid black;
+}
+
+fieldset {
+    width: 850px;
+}
